@@ -1,2 +1,2 @@
 # SotAs-in-Computational-Biology
-In this repo, we list state-of-the-art methods in Computational Biology and bioinformatics.
+In this repo, we list state-of-the-art methods and brilliant research works in Computational Biology and bioinformatics.
